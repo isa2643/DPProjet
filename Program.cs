@@ -36,6 +36,7 @@ namespace DesignPatternProjet
                     break;
 
             }
+            Console.ReadKey();
         }
     }
 }
