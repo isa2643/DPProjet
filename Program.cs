@@ -31,7 +31,7 @@ namespace DesignPatternProjet
 
                     break;
                 case "3":
-                    var vehicleCreator3 = new VehicleCreator(new Camion());
+                    var vehicleCreator3 = new VehicleCreator(new Moto());
                     vehicleCreator3.CreateVehicle();
                     break;
 
